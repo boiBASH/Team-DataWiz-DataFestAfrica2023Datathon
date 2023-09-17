@@ -1,4 +1,4 @@
-# Team-DataWiz_1-DataFestAfrica2023Datathon
+# Team-DataWiz-DataFestAfrica2023Datathon
 
 # Fraud Detection for Online Payment Platform
 
