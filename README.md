@@ -2,6 +2,9 @@
 
 # Fraud Detection for Online Payment Platform
 
+![download](https://github.com/boiBASH/Team-DataWiz-DataFestAfrica2023Datathon/assets/67709237/057f77d2-ace0-4f87-b22a-022923d903f1)
+
+
 ## Overview
 The Fraud Detection dataset is a critical asset for our business, providing valuable insights and opportunities for enhancing the security and trustworthiness of our online payment platform. This dataset represents transactions and user-related data collected over time from our platform. The primary goal is to develop an advanced predictive model to identify potentially fraudulent transactions.
 
